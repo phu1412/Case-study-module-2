@@ -1,0 +1,21 @@
+.index {
+    text-align: center;
+}
+.index img {
+    width: 70%;
+    height: 600px;
+}
+.fl-left{
+    float: left;
+}
+.title {
+    font-size: 28px;
+    padding-left: 10px;
+    
+}
+.error{
+    color: red;
+}
+.addition {
+   float: right;
+}
